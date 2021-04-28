@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_item_admin" android:title="Admin">
+    </item>
+
+    <item android:id="@+id/menu_item_switch_account" android:title="Switch Account">
+    </item>
+
+    <item android:id="@+id/menu_item_create_account" android:title="Create Account">
+    </item>
+
+
+
+</menu>

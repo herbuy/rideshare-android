@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Layata</string>
+    <string name="notif_channel_name">Miscellaneous</string>
+    <string name="channel_description">Channel for other notifications</string>
+    <string name="notif_channel_id">other_notifications</string>
+    <string name="title_activity_login_with_error">LoginActivityWithError</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_some">SomeActivity</string>
+</resources>

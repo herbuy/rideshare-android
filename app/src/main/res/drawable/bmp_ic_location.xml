@@ -1,0 +1,4 @@
+<bitmap
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:tint="@color/colorAccent"
+    android:src="@drawable/ic_menu_location_black"/>
